@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Bioengineering, Seoul National University, South Korea, 2025 (expected)
+* M.S. in Bioengineering, Seoul National University, South Korea, 2015
+* B.S. in Biomedical Engineering, Yonsei University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 2021-present: Academic Pages Collaborator
+  * Innovative Medical Technology Research Institute, Seoul National University Hospital
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2016-2021: Research Assistant
+  * Department of Biomedical Engineering, Seoul National University Hospital
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
