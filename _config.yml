@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sungwoo-3.jpg"
+  avatar           : "sungwoo_1.jpg"
   name             : "Sungwoo Park"
   pronouns         : # example: "she/her"  
   bio              : "Engineer, Seoul National University Hospital"
