@@ -23,10 +23,12 @@ Education
 * B.S. in Biomedical Engineering
 
 
-Research Experience
+Experience
 ======
 * Researcher (2021-present)
-  * Institution: Biomedical Research Institute, Seoul National University Hospital
+  * Institution: Innovative Medical Technology Research Institute, Seoul National University Hospital
+* Researcher (2016-2021)
+  * Institution: Department of Biomedical Engineering, Seoul National University Hospital
 
 
 
