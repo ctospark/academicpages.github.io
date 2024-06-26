@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I love to see how technology can help solve scientific problems efficiently. 
+I love to see how technology solves problems efficiently. 
 
 
 Education
@@ -34,7 +34,5 @@ Experience
 
 Skills
 ======
-* Computing languages: Python, Java, R, Perl, Bash shell scripting, MySQL, Snakemake, Workflow managment language (WDL)
-* Bioinformatics: Hail, pipeline management for NGS data analysis (e.g. variant calling, DEG, sc-eQTL ..)
-* Technologies: Amazon cloud computing, Google Cloud Platform, Docker, Apache spark, Git
-* Laboratory skills: Sanger sequencing from saliva sample
+* Computing languages: c++, Python, Java, R
+* Technologies: Mechanical Design, PCB Design
