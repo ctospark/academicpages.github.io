@@ -13,9 +13,9 @@ I love to see how technology solves problems efficiently.
 
 Experience
 ======
-* Medical Device Prototype Development Engineer (2021-present)
+* Prototype Development Engineer (2021-present)
   * Institution: Innovative Medical Technology Research Institute, Seoul National University Hospital
-* Medical Device Research and Development Engineer (2016-2021)
+* Research and Development Engineer (2016-2021)
   * Institution: Department of Biomedical Engineering, Seoul National University Hospital
 
 
